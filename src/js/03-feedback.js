@@ -41,5 +41,3 @@ function fillingTextarea() {
     message.value = formData.message;
   }
 }
-
-//complete
